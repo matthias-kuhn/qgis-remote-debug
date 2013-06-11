@@ -10,7 +10,7 @@
 
 [general]
 name=Remote Debug
-qgisMinimumVersion=1.0
+qgisMinimumVersion=2.0
 description=Start Python remote debugger from QGIS plugin
 version=0.1.0
 
